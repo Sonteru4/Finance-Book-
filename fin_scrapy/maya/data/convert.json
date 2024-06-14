@@ -1,0 +1,624 @@
+[
+  {
+    "company": "המלט",
+    "mayaid": "68",
+    "tckr": "המלט",
+    "list": [
+      {
+        "year": "2016",
+        "pdf": "68_2016",
+        "bspage": "66",
+        "ispage": "67",
+        "cfpage": "71",
+        "cpa": "EY"
+      },
+      {
+        "year": "2017",
+        "pdf": "68_2018",
+        "bspage": "80",
+        "ispage": "82",
+        "cfpage": "86",
+        "cpa": "EY"
+      },
+      {
+        "year": "2018",
+        "pdf": "68_2018",
+        "bspage": "80",
+        "ispage": "82",
+        "cfpage": "86",
+        "cpa": "EY"
+      },
+      {
+        "q": "1",
+        "pdf": "68_1q2018",
+        "bspage": "14",
+        "ispage": "16",
+        "cfpage": "18",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "2",
+        "pdf": "68_2q2018",
+        "bspage": "18",
+        "ispage": "20",
+        "cfpage": "22",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "3",
+        "pdf": "68_3q2018",
+        "bspage": "20",
+        "ispage": "22",
+        "cfpage": "24",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "4",
+        "year": "2018"
+      }
+    ]
+  },
+  {
+    "company": "בית שמש",
+    "mayaid": "1054",
+    "tckr": "בית שמש",
+    "list": [
+      {
+        "year": "2015",
+        "pdf": "1054_2016",
+        "bspage": "58",
+        "ispage": "59",
+        "cfpage": "63",
+        "cpa": "KPMG"
+      },
+      {
+        "year": "2016",
+        "pdf": "1054_2016",
+        "bspage": "58",
+        "ispage": "59",
+        "cfpage": "63",
+        "cpa": "KPMG"
+      },
+      {
+        "year": "2017",
+        "pdf": "1054_2018",
+        "bspage": "57",
+        "ispage": "58",
+        "cfpage": "62",
+        "cpa": "KPMG"
+      },
+      {
+        "year": "2018",
+        "pdf": "1054_2018",
+        "bspage": "57",
+        "ispage": "58",
+        "cfpage": "62",
+        "cpa": "KPMG"
+      },
+      {
+        "q": "1",
+        "pdf": "1054_1q2018",
+        "bspage": "14",
+        "ispage": "15",
+        "cfpage": "19",
+        "cpa": "KPMG",
+        "year": "2018"
+      },
+      {
+        "q": "2",
+        "pdf": "1054_2q2018",
+        "bspage": "17",
+        "ispage": "18",
+        "cfpage": "23",
+        "cpa": "KPMG",
+        "year": "2018"
+      },
+      {
+        "q": "3",
+        "pdf": "1054_3q2018",
+        "bspage": "17",
+        "ispage": "18",
+        "cfpage": "23",
+        "cpa": "KPMG",
+        "year": "2018"
+      },
+      {
+        "q": "4",
+        "year": "2018"
+      }
+    ]
+  },
+  {
+    "company": "סקופ",
+    "mayaid": "288",
+    "tckr": "סקופ",
+    "list": [
+      {
+        "year": "2015",
+        "pdf": "288_2016",
+        "bspage": "65",
+        "ispage": "67",
+        "cfpage": "70",
+        "cpa": "EY"
+      },
+      {
+        "year": "2016",
+        "pdf": "288_2016",
+        "bspage": "65",
+        "ispage": "67",
+        "cfpage": "70",
+        "cpa": "EY"
+      },
+      {
+        "year": "2017",
+        "pdf": "288_2018",
+        "bspage": "64",
+        "ispage": "66",
+        "cfpage": "69",
+        "cpa": "EY"
+      },
+      {
+        "year": "2018",
+        "pdf": "288_2018",
+        "bspage": "64",
+        "ispage": "66",
+        "cfpage": "69",
+        "cpa": "EY"
+      },
+      {
+        "q": "1",
+        "pdf": "288_1q2018",
+        "bspage": "17",
+        "ispage": "19",
+        "cfpage": "23",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "2",
+        "pdf": "288_2q2018",
+        "bspage": "15",
+        "ispage": "17",
+        "cfpage": "20",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "3",
+        "pdf": "288_3q2018",
+        "bspage": "17",
+        "ispage": "19",
+        "cfpage": "23",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "4",
+        "year": "2018"
+      }
+    ]
+  },
+  {
+    "company": "מיטרוניקס",
+    "mayaid": "1212",
+    "tckr": "מיטרוניקס",
+    "list": [
+      {
+        "year": "2015",
+        "pdf": "1212_2016",
+        "bspage": "74",
+        "ispage": "76",
+        "cfpage": "81",
+        "cpa": "EY"
+      },
+      {
+        "year": "2016",
+        "pdf": "1212_2016",
+        "bspage": "74",
+        "ispage": "76",
+        "cfpage": "81",
+        "cpa": "EY"
+      },
+      {
+        "year": "2017",
+        "pdf": "1212_2018",
+        "bspage": "84",
+        "ispage": "86",
+        "cfpage": "91",
+        "cpa": "EY"
+      },
+      {
+        "year": "2018",
+        "pdf": "1212_2018",
+        "bspage": "84",
+        "ispage": "86",
+        "cfpage": "91",
+        "cpa": "EY"
+      },
+      {
+        "q": "1",
+        "pdf": "1212_1q2018",
+        "bspage": "15",
+        "ispage": "17",
+        "cfpage": "21",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "2",
+        "pdf": "1212_2q2018",
+        "bspage": "17",
+        "ispage": "19",
+        "cfpage": "23",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "3",
+        "pdf": "1212_3q2018",
+        "bspage": "18",
+        "ispage": "20",
+        "cfpage": "26",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "4",
+        "year": "2018"
+      }
+    ]
+  },
+  {
+    "company": "דנאל",
+    "mayaid": "314",
+    "tckr": "דנאל",
+    "list": [
+      {
+        "year": "2015",
+        "pdf": "314_2016",
+        "bspage": "59",
+        "ispage": "61",
+        "cfpage": "66",
+        "cpa": "KPMG"
+      },
+      {
+        "year": "2016",
+        "pdf": "314_2016",
+        "bspage": "59",
+        "ispage": "61",
+        "cfpage": "66",
+        "cpa": "KPMG"
+      },
+      {
+        "year": "2017",
+        "pdf": "314_2018",
+        "bspage": "58",
+        "ispage": "60",
+        "cfpage": "65",
+        "cpa": "KPMG"
+      },
+      {
+        "year": "2018",
+        "pdf": "314_2018",
+        "bspage": "58",
+        "ispage": "60",
+        "cfpage": "65",
+        "cpa": "KPMG"
+      },
+      {
+        "q": "1",
+        "pdf": "314_1q2018",
+        "bspage": "26",
+        "ispage": "28",
+        "cfpage": "30",
+        "cpa": "KPMG",
+        "year": "2018"
+      },
+      {
+        "q": "2",
+        "pdf": "314_2q2018",
+        "bspage": "10",
+        "ispage": "12",
+        "cfpage": "19",
+        "cpa": "KPMG",
+        "year": "2018"
+      },
+      {
+        "q": "3",
+        "pdf": "314_3q2018",
+        "bspage": "12",
+        "ispage": "14",
+        "cfpage": "21",
+        "cpa": "KPMG",
+        "year": "2018"
+      },
+      {
+        "q": "4",
+        "year": "2018"
+      }
+    ]
+  },
+  {
+    "company": "פלסאון",
+    "mayaid": "1057",
+    "tckr": "פלסאון תעשיות",
+    "list": [
+      {
+        "year": "2015",
+        "pdf": "1057_2016",
+        "bspage": "24",
+        "ispage": "25",
+        "cfpage": "28",
+        "cpa": "pwc"
+      },
+      {
+        "year": "2016",
+        "pdf": "1057_2016",
+        "bspage": "24",
+        "ispage": "25",
+        "cfpage": "28",
+        "cpa": "pwc"
+      },
+      {
+        "year": "2017",
+        "pdf": "1057_2018",
+        "bspage": "23",
+        "ispage": "24",
+        "cfpage": "27",
+        "cpa": "pwc"
+      },
+      {
+        "year": "2018",
+        "pdf": "1057_2018B",
+        "bspage": "23",
+        "ispage": "24",
+        "cfpage": "27",
+        "cpa": "pwc"
+      },
+      {
+        "q": "1",
+        "pdf": "1057_1q2018",
+        "bspage": "18",
+        "ispage": "19",
+        "cfpage": "22",
+        "cpa": "pwc",
+        "year": "2018"
+      },
+      {
+        "q": "2",
+        "pdf": "1057_2q2018",
+        "bspage": "18",
+        "ispage": "19",
+        "cfpage": "23",
+        "cpa": "pwc",
+        "year": "2018"
+      },
+      {
+        "q": "3",
+        "pdf": "1057_3q2018",
+        "bspage": "18",
+        "ispage": "19",
+        "cfpage": "23",
+        "cpa": "pwc",
+        "year": "2018"
+      },
+      {
+        "q": "4",
+        "year": "2018"
+      }
+    ]
+  },
+  {
+    "company": "נייר חדרה",
+    "mayaid": "632",
+    "tckr": "נייר חדרה",
+    "list": [
+      {
+        "year": "2015",
+        "pdf": "632_2016",
+        "bspage": "93",
+        "ispage": "95",
+        "cfpage": "100",
+        "cpa": "Delloite"
+      },
+      {
+        "year": "2016",
+        "pdf": "632_2016",
+        "bspage": "93",
+        "ispage": "95",
+        "cfpage": "100",
+        "cpa": "Delloite"
+      },
+      {
+        "year": "2017",
+        "pdf": "632_2018",
+        "bspage": "81",
+        "ispage": "83",
+        "cfpage": "88",
+        "cpa": "Delloite"
+      },
+      {
+        "year": "2018",
+        "pdf": "632_2018",
+        "bspage": "81",
+        "ispage": "83",
+        "cfpage": "88",
+        "cpa": "Delloite"
+      },
+      {
+        "q": "1",
+        "pdf": "632_1q2018",
+        "bspage": "20",
+        "ispage": "22",
+        "cfpage": "26",
+        "cpa": "Delloite",
+        "year": "2018"
+      },
+      {
+        "q": "2",
+        "pdf": "632_2q2018",
+        "bspage": "22",
+        "ispage": "24",
+        "cfpage": "29",
+        "cpa": "Delloite",
+        "year": "2018"
+      },
+      {
+        "q": "3",
+        "pdf": "632_3q2018",
+        "bspage": "23",
+        "ispage": "25",
+        "cfpage": "30",
+        "cpa": "Delloite",
+        "year": "2018"
+      },
+      {
+        "q": "4",
+        "year": "2018"
+      }
+    ]
+  },
+  {
+    "company": "קליל",
+    "mayaid": "797",
+    "tckr": "קליל",
+    "list": [
+      {
+        "year": "2015",
+        "pdf": "797_2016",
+        "bspage": "48",
+        "ispage": "50",
+        "cfpage": "52",
+        "cpa": "EY"
+      },
+      {
+        "year": "2016",
+        "pdf": "797_2016",
+        "bspage": "48",
+        "ispage": "50",
+        "cfpage": "52",
+        "cpa": "EY"
+      },
+      {
+        "year": "2017",
+        "pdf": "797_2018",
+        "bspage": "41",
+        "ispage": "43",
+        "cfpage": "45",
+        "cpa": "EY"
+      },
+      {
+        "year": "2018",
+        "pdf": "797_2018",
+        "bspage": "41",
+        "ispage": "43",
+        "cfpage": "45",
+        "cpa": "EY"
+      },
+      {
+        "q": "1",
+        "pdf": "797_1q2018",
+        "bspage": "13",
+        "ispage": "15",
+        "cfpage": "19",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "2",
+        "pdf": "797_2q2018",
+        "bspage": "13",
+        "ispage": "15",
+        "cfpage": "19",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "3",
+        "pdf": "797_3q2018",
+        "bspage": "13",
+        "ispage": "15",
+        "cfpage": "19",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "4",
+        "year": "2018"
+      }
+    ]
+  },
+  {
+    "company": "חילן",
+    "mayaid": "1110",
+    "tckr": "חילן",
+    "list": [
+      {
+        "year": "2015",
+        "pdf": "1110_2016",
+        "bspage": "86",
+        "ispage": "88",
+        "cfpage": "90",
+        "cpa": "EY"
+      },
+      {
+        "year": "2016",
+        "pdf": "1110_2016",
+        "bspage": "86",
+        "ispage": "88",
+        "cfpage": "90",
+        "cpa": "EY"
+      },
+      {
+        "year": "2017",
+        "pdf": "1110_2018",
+        "bspage": "85",
+        "ispage": "87",
+        "cfpage": "89",
+        "cpa": "EY"
+      },
+      {
+        "year": "2018",
+        "pdf": "1110_2018",
+        "bspage": "85",
+        "ispage": "87",
+        "cfpage": "89",
+        "cpa": "EY"
+      },
+      {
+        "q": "1",
+        "pdf": "1110_1q2018",
+        "bspage": "14",
+        "ispage": "16",
+        "cfpage": "19",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "2",
+        "pdf": "1110_2q2018",
+        "bspage": "16",
+        "ispage": "18",
+        "cfpage": "22",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "3",
+        "pdf": "1110_3q2018",
+        "bspage": "17",
+        "ispage": "19",
+        "cfpage": "23",
+        "cpa": "EY",
+        "year": "2018"
+      },
+      {
+        "q": "4",
+        "year": "2018"
+      }
+    ]
+  }
+]

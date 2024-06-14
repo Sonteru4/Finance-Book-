@@ -1,0 +1,402 @@
+[
+  {
+    "company_name": "GM",
+    "current_assets": {
+      "cash": 15944000000.0,
+      "date": "2018-12-31 00:00:00",
+      "inventory": 9816000000.0,
+      "net_receivable": 6549000000.0,
+      "other_current_assets": 3392000000.0,
+      "plug_number": 33626000000.0,
+      "short_term_investment": 5966000000.0
+    },
+    "current_liabilities": {
+      "accounts_payable": 22297000000.0,
+      "adjustment": 53243000000.0,
+      "date": "2018-12-31 00:00:00",
+      "other_current_liabilities": 6697000000.0,
+      "short_debt": 0.0
+    },
+    "equity": {
+      "capital_surplus": 25563000000.0,
+      "common_stock": 14000000.0,
+      "date": "2018-12-31 00:00:00",
+      "misc_stocks_options_warrants": 0.0,
+      "other_stockholder_equity": -9039000000.0,
+      "preferred_stock": 0.0,
+      "redeemable_preferred_stock": 0.0,
+      "retained_earnings": 22322000000.0,
+      "treasury_stock": -9039000000.0
+    },
+    "long_term_assets": {
+      "adjustment": 123484000000.0,
+      "amortization": 0.0,
+      "date": "2018-12-31 00:00:00",
+      "deferred_long_term_assets_change": 24082000000.0,
+      "goodwill": 461000000.0,
+      "intangible_assets": 3718000000.0,
+      "long_term_investment": 7860000000.0,
+      "other_assets": 28976000000.0,
+      "property_plant_equipment": 38758000000.0
+    },
+    "long_term_liabilities": {
+      "adjustment": 138743000000.0,
+      "date": "2018-12-31 00:00:00",
+      "deferred_long_term_liability": 0.0,
+      "long_term_debt": 12637000000.0,
+      "minority_interest": 3917000000.0,
+      "negative_goodwill": 0.0,
+      "other_liabilities": 29265000000.0
+    }
+  },
+  {
+    "company_name": "GM",
+    "current_assets": {
+      "cash": 11212000000.0,
+      "date": "2017-12-31 00:00:00",
+      "inventory": 10663000000.0,
+      "net_receivable": 8164000000.0,
+      "other_current_assets": 3831000000.0,
+      "plug_number": 26561000000.0,
+      "short_term_investment": 8313000000.0
+    },
+    "current_liabilities": {
+      "accounts_payable": 23929000000.0,
+      "adjustment": 44454000000.0,
+      "date": "2017-12-31 00:00:00",
+      "other_current_liabilities": 8507000000.0,
+      "short_debt": 0.0
+    },
+    "equity": {
+      "capital_surplus": 25371000000.0,
+      "common_stock": 14000000.0,
+      "date": "2017-12-31 00:00:00",
+      "misc_stocks_options_warrants": 0.0,
+      "other_stockholder_equity": -8011000000.0,
+      "preferred_stock": 0.0,
+      "redeemable_preferred_stock": 0.0,
+      "retained_earnings": 17627000000.0,
+      "treasury_stock": -8011000000.0
+    },
+    "long_term_assets": {
+      "adjustment": 112733000000.0,
+      "amortization": 0.0,
+      "date": "2017-12-31 00:00:00",
+      "deferred_long_term_assets_change": 23544000000.0,
+      "goodwill": 457000000.0,
+      "intangible_assets": 3992000000.0,
+      "long_term_investment": 7886000000.0,
+      "other_assets": 27617000000.0,
+      "property_plant_equipment": 36253000000.0
+    },
+    "long_term_liabilities": {
+      "adjustment": 131958000000.0,
+      "date": "2017-12-31 00:00:00",
+      "deferred_long_term_liability": 0.0,
+      "long_term_debt": 10987000000.0,
+      "minority_interest": 1199000000.0,
+      "negative_goodwill": 0.0,
+      "other_liabilities": 32138000000.0
+    }
+  },
+  {
+    "company_name": "GM",
+    "current_assets": {
+      "cash": 9774000000.0,
+      "date": "2016-12-31 00:00:00",
+      "inventory": 11040000000.0,
+      "net_receivable": 8700000000.0,
+      "other_current_assets": 14619000000.0,
+      "plug_number": 20229000000.0,
+      "short_term_investment": 11841000000.0
+    },
+    "current_liabilities": {
+      "accounts_payable": 23333000000.0,
+      "adjustment": 41736000000.0,
+      "date": "2016-12-31 00:00:00",
+      "other_current_liabilities": 20112000000.0,
+      "short_debt": 0.0
+    },
+    "equity": {
+      "capital_surplus": 26983000000.0,
+      "common_stock": 15000000.0,
+      "date": "2016-12-31 00:00:00",
+      "misc_stocks_options_warrants": 0.0,
+      "other_stockholder_equity": -9330000000.0,
+      "preferred_stock": 0.0,
+      "redeemable_preferred_stock": 0.0,
+      "retained_earnings": 26168000000.0,
+      "treasury_stock": -9330000000.0
+    },
+    "long_term_assets": {
+      "adjustment": 97196000000.0,
+      "amortization": 0.0,
+      "date": "2016-12-31 00:00:00",
+      "deferred_long_term_assets_change": 33172000000.0,
+      "goodwill": 490000000.0,
+      "intangible_assets": 4259000000.0,
+      "long_term_investment": 8052000000.0,
+      "other_assets": 45918000000.0,
+      "property_plant_equipment": 32603000000.0
+    },
+    "long_term_liabilities": {
+      "adjustment": 126768000000.0,
+      "date": "2016-12-31 00:00:00",
+      "deferred_long_term_liability": 0.0,
+      "long_term_debt": 9500000000.0,
+      "minority_interest": 239000000.0,
+      "negative_goodwill": 0.0,
+      "other_liabilities": 41108000000.0
+    }
+  },
+  {
+    "company_name": "GM",
+    "current_assets": {
+      "cash": 12138000000.0,
+      "date": "2015-12-31 00:00:00",
+      "inventory": 13764000000.0,
+      "net_receivable": 8337000000.0,
+      "other_current_assets": 4510000000.0,
+      "plug_number": 23077000000.0,
+      "short_term_investment": 7582000000.0
+    },
+    "current_liabilities": {
+      "accounts_payable": 24062000000.0,
+      "adjustment": 36390000000.0,
+      "date": "2015-12-31 00:00:00",
+      "other_current_liabilities": 10765000000.0,
+      "short_debt": 0.0
+    },
+    "equity": {
+      "capital_surplus": 27607000000.0,
+      "common_stock": 15000000.0,
+      "date": "2015-12-31 00:00:00",
+      "misc_stocks_options_warrants": 0.0,
+      "other_stockholder_equity": -8036000000.0,
+      "preferred_stock": 0.0,
+      "redeemable_preferred_stock": 0.0,
+      "retained_earnings": 20285000000.0,
+      "treasury_stock": -8036000000.0
+    },
+    "long_term_assets": {
+      "adjustment": 73151000000.0,
+      "amortization": 0.0,
+      "date": "2015-12-31 00:00:00",
+      "deferred_long_term_assets_change": 36860000000.0,
+      "goodwill": 0.0,
+      "intangible_assets": 4547000000.0,
+      "long_term_investment": 9201000000.0,
+      "other_assets": 39350000000.0,
+      "property_plant_equipment": 31229000000.0
+    },
+    "long_term_liabilities": {
+      "adjustment": 106366000000.0,
+      "date": "2015-12-31 00:00:00",
+      "deferred_long_term_liability": 0.0,
+      "long_term_debt": 7948000000.0,
+      "minority_interest": 452000000.0,
+      "negative_goodwill": 0.0,
+      "other_liabilities": 39249000000.0
+    }
+  },
+  {
+    "company_name": "AAPL",
+    "current_assets": {
+      "cash": 25913000000.0,
+      "date": "2018-09-29 00:00:00",
+      "inventory": 3956000000.0,
+      "net_receivable": 48995000000.0,
+      "other_current_assets": 12087000000.0,
+      "plug_number": 0.0,
+      "short_term_investment": 40388000000.0
+    },
+    "current_liabilities": {
+      "accounts_payable": 55888000000.0,
+      "adjustment": 11964000000.0,
+      "date": "2018-09-29 00:00:00",
+      "other_current_liabilities": 40230000000.0,
+      "short_debt": 8784000000.0
+    },
+    "equity": {
+      "capital_surplus": 0.0,
+      "common_stock": 40201000000.0,
+      "date": "2018-09-29 00:00:00",
+      "misc_stocks_options_warrants": 0.0,
+      "other_stockholder_equity": -3454000000.0,
+      "preferred_stock": 0.0,
+      "redeemable_preferred_stock": 0.0,
+      "retained_earnings": 70400000000.0,
+      "treasury_stock": -3454000000.0
+    },
+    "long_term_assets": {
+      "adjustment": 131339000000.0,
+      "amortization": 0.0,
+      "date": "2018-09-29 00:00:00",
+      "deferred_long_term_assets_change": 0.0,
+      "goodwill": 0.0,
+      "intangible_assets": 0.0,
+      "long_term_investment": 170799000000.0,
+      "other_assets": 22283000000.0,
+      "property_plant_equipment": 41304000000.0
+    },
+    "long_term_liabilities": {
+      "adjustment": 116866000000.0,
+      "date": "2018-09-29 00:00:00",
+      "deferred_long_term_liability": 0.0,
+      "long_term_debt": 93735000000.0,
+      "minority_interest": 0.0,
+      "negative_goodwill": 0.0,
+      "other_liabilities": 47977000000.0
+    }
+  },
+  {
+    "company_name": "AAPL",
+    "current_assets": {
+      "cash": 20289000000.0,
+      "date": "2017-09-30 00:00:00",
+      "inventory": 4855000000.0,
+      "net_receivable": 35673000000.0,
+      "other_current_assets": 13936000000.0,
+      "plug_number": 0.0,
+      "short_term_investment": 53892000000.0
+    },
+    "current_liabilities": {
+      "accounts_payable": 44242000000.0,
+      "adjustment": 11977000000.0,
+      "date": "2017-09-30 00:00:00",
+      "other_current_liabilities": 38099000000.0,
+      "short_debt": 6496000000.0
+    },
+    "equity": {
+      "capital_surplus": 0.0,
+      "common_stock": 35867000000.0,
+      "date": "2017-09-30 00:00:00",
+      "misc_stocks_options_warrants": 0.0,
+      "other_stockholder_equity": -150000000.0,
+      "preferred_stock": 0.0,
+      "redeemable_preferred_stock": 0.0,
+      "retained_earnings": 98330000000.0,
+      "treasury_stock": -150000000.0
+    },
+    "long_term_assets": {
+      "adjustment": 128645000000.0,
+      "amortization": 0.0,
+      "date": "2017-09-30 00:00:00",
+      "deferred_long_term_assets_change": 0.0,
+      "goodwill": 0.0,
+      "intangible_assets": 0.0,
+      "long_term_investment": 194714000000.0,
+      "other_assets": 18177000000.0,
+      "property_plant_equipment": 33783000000.0
+    },
+    "long_term_liabilities": {
+      "adjustment": 100814000000.0,
+      "date": "2017-09-30 00:00:00",
+      "deferred_long_term_liability": 0.0,
+      "long_term_debt": 97207000000.0,
+      "minority_interest": 0.0,
+      "negative_goodwill": 0.0,
+      "other_liabilities": 43251000000.0
+    }
+  },
+  {
+    "company_name": "AAPL",
+    "current_assets": {
+      "cash": 20484000000.0,
+      "date": "2016-09-24 00:00:00",
+      "inventory": 2132000000.0,
+      "net_receivable": 29299000000.0,
+      "other_current_assets": 8283000000.0,
+      "plug_number": 0.0,
+      "short_term_investment": 46671000000.0
+    },
+    "current_liabilities": {
+      "accounts_payable": 37294000000.0,
+      "adjustment": 29969000000.0,
+      "date": "2016-09-24 00:00:00",
+      "other_current_liabilities": 8243000000.0,
+      "short_debt": 3500000000.0
+    },
+    "equity": {
+      "capital_surplus": 0.0,
+      "common_stock": 31251000000.0,
+      "date": "2016-09-24 00:00:00",
+      "misc_stocks_options_warrants": 0.0,
+      "other_stockholder_equity": 634000000.0,
+      "preferred_stock": 0.0,
+      "redeemable_preferred_stock": 0.0,
+      "retained_earnings": 96364000000.0,
+      "treasury_stock": 634000000.0
+    },
+    "long_term_assets": {
+      "adjustment": 106869000000.0,
+      "amortization": 0.0,
+      "date": "2016-09-24 00:00:00",
+      "deferred_long_term_assets_change": 0.0,
+      "goodwill": 5414000000.0,
+      "intangible_assets": 3206000000.0,
+      "long_term_investment": 170430000000.0,
+      "other_assets": 8757000000.0,
+      "property_plant_equipment": 27010000000.0
+    },
+    "long_term_liabilities": {
+      "adjustment": 79006000000.0,
+      "date": "2016-09-24 00:00:00",
+      "deferred_long_term_liability": 0.0,
+      "long_term_debt": 75427000000.0,
+      "minority_interest": 0.0,
+      "negative_goodwill": 0.0,
+      "other_liabilities": 39004000000.0
+    }
+  },
+  {
+    "company_name": "AAPL",
+    "current_assets": {
+      "cash": 21120000000.0,
+      "date": "2015-09-26 00:00:00",
+      "inventory": 2349000000.0,
+      "net_receivable": 30343000000.0,
+      "other_current_assets": 14691000000.0,
+      "plug_number": 394000000.0,
+      "short_term_investment": 20481000000.0
+    },
+    "current_liabilities": {
+      "accounts_payable": 35490000000.0,
+      "adjustment": 31668000000.0,
+      "date": "2015-09-26 00:00:00",
+      "other_current_liabilities": 10939000000.0,
+      "short_debt": 2513000000.0
+    },
+    "equity": {
+      "capital_surplus": 0.0,
+      "common_stock": 27416000000.0,
+      "date": "2015-09-26 00:00:00",
+      "misc_stocks_options_warrants": 0.0,
+      "other_stockholder_equity": -345000000.0,
+      "preferred_stock": 0.0,
+      "redeemable_preferred_stock": 0.0,
+      "retained_earnings": 92284000000.0,
+      "treasury_stock": -345000000.0
+    },
+    "long_term_assets": {
+      "adjustment": 89378000000.0,
+      "amortization": 0.0,
+      "date": "2015-09-26 00:00:00",
+      "deferred_long_term_assets_change": 0.0,
+      "goodwill": 5116000000.0,
+      "intangible_assets": 3893000000.0,
+      "long_term_investment": 164065000000.0,
+      "other_assets": 5422000000.0,
+      "property_plant_equipment": 22471000000.0
+    },
+    "long_term_liabilities": {
+      "adjustment": 80610000000.0,
+      "date": "2015-09-26 00:00:00",
+      "deferred_long_term_liability": 0.0,
+      "long_term_debt": 53329000000.0,
+      "minority_interest": 0.0,
+      "negative_goodwill": 0.0,
+      "other_liabilities": 37051000000.0
+    }
+  }
+]
